@@ -1,0 +1,3216 @@
+Index.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+    <style>
+
+    </style>
+
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">Ninjago Media</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="series.html">Series</a></li>
+                <li><a href="movies.html">Movies</a></li>
+                <li><a href="specials.html">Specials</a></li>
+                <li><a href="jff.html">JFF</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <!-- Hero content here -->
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_1_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Rise Of The Snakes</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_2_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Legacy of the Green Ninja</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_6_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Skybound</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_13_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Master of the Mountain</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_4_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Tournaments of Elements</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="https://m.media-amazon.com/images/M/MV5BNDI3MDljMTQtYzBiYS00NDk2LTlhYzUtYmM0NWIyMmZkMDZkXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_.jpg" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">The Lego Ninjago Movie</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_9_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Hunted</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_10_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: March Of The Oni</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_12_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Prime Empire</div>
+                </a>
+            </div>
+            <div class="hero-item">
+                <a href="movies.html">
+                    <img src="./IMG/images/content/Season_1_DR_Cover.webp" alt="Featured Show" width="205" height="300">
+                    <div class="show-name">Ninjago: Dragons Rising</div>
+                </a>
+            </div>
+        </section>
+
+
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+Series.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="stylesserie.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+
+</head>
+<body>
+    <header>
+      <div class="logo">
+          <a href="index.html">Ninjago Media</a>
+      </div>
+      <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="series.html">Series</a></li>
+            <li><a href="movies.html">Movies</a></li>
+            <li><a href="specials.html">Specials</a></li>
+            <li><a href="jff.html">JFF</a></li>
+            <li><a href="about.html">About Me</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+        <h1>All Ninjago Seasons</h1>
+        <section class="series-list">
+            <!-- Dynamic series listings will be added here using JavaScript -->
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="scriptseries.js"></script>
+</body>
+</html>
+Movies.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="stylesmovie.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+      <div class="logo">
+          <a href="index.html">Ninjago Media</a>
+      </div>
+      <nav>
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="series.html">Series</a></li>
+              <li><a href="movies.html">Movies</a></li>
+              <li><a href="specials.html">Specials</a></li>
+              <li><a href="jff.html">JFF</a></li>
+              <li><a href="about.html">About Me</a></li>
+          </ul>
+      </nav>
+    </header>
+    <main>
+        <h1>All Ninjago Movies</h1>
+        <section class="movie-list">
+            <!-- Dynamic movie listings will be added here using JavaScript -->
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="scriptmovies.js"></script>
+</body>
+</html>
+JFF.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+      <div class="logo">
+          <a href="index.html">Ninjago Media</a>
+      </div>
+      <nav>
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="series.html">Series</a></li>
+              <li><a href="movies.html">Movies</a></li>
+              <li><a href="specials.html">Specials</a></li>
+              <li><a href="jff.html">JFF</a></li>
+              <li><a href="about.html">About Me</a></li>
+          </ul>
+      </nav>
+    </header>
+    <main>
+        <h1>Just For Fun</h1>
+        <p>Click the button below to go to a random movie or episode!</p>
+        <button id="randomPageBtn">Click for random movie or episode!</button>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="scriptjff.js"></script>
+</body>
+</html>
+404.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <link rel="icon" type="image/x-icon" href="/IMG/images/icon.webp">
+    <link rel="stylesheet" href="404.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/index.html">Ninjago Media</a>
+        </div>
+        <nav>
+            <ul>    
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/series.html">Series</a></li>
+                <li><a href="/movies.html">Movies</a></li>
+                <li><a href="/specials.html">Specials</a></li>
+                <li><a href="/jff.html">JFF</a></li>
+                <li><a href="/about.html">About Me</a></li>
+            </ul>
+            </nav>
+    </header>
+    <main>
+        <section class="error-section">
+            <div class="error-content">
+                <h1>404</h1>
+                <h2>Page Not Found</h2>
+                <p>The page you are looking for might have been removed or its name changed. But you might also spelled the name wrong, so check that first before contacting me!</p>
+                <a href="/index.html" class="btn">Back to Home</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="/IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="/IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="/IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+about.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+      <div class="logo">
+          <a href="index.html">Ninjago Media</a>
+      </div>
+      <nav>
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="series.html">Series</a></li>
+              <li><a href="movies.html">Movies</a></li>
+              <li><a href="specials.html">Specials</a></li>
+              <li><a href="jff.html">JFF</a></li>
+              <li><a href="about.html">About Me</a></li>
+          </ul>
+      </nav>
+    </header>
+    <main>
+        <h1>About Me</h1>
+        <section class="about-content">
+            <div class="profile">
+                <img src="profile-pic.jpg" alt="My Profile Picture">
+                <h2>Vibin_Lub</h2>
+                <p>Website Maker For Fun</p>
+            </div>
+            <div class="bio">
+                <p>Welcome to Ninjago Streaming, your ultimate destination for all things Ninjago! We are passionate about bringing you the best Ninjago movies, series, and specials to fuel your ninja adventures.</p>
+                <p>Our mission is to create a platform where Ninjago fans can immerse themselves in the thrilling world of Ninjago, discover new content, and connect with fellow ninja enthusiasts.</p>
+                <p>Thank you for being part of our ninja community!</p>
+            </div>
+            <div class="stats">
+                <h2>Site Statistics</h2>
+                <ul>
+                    <li>Total Movies: 1 :[</li>
+                    <li>Total Series: 3</li>
+                    <li>Total Seasons: 17</li>
+                    <li>Total Specials: 8</li>
+                    <li>Active Users: 1000+</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+specials.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="./IMG/images/icon.webp">
+    <link rel="stylesheet" href="stylesspecial.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+      <div class="logo">
+          <a href="index.html">Ninjago Media</a>
+      </div>
+      <nav>
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="series.html">Series</a></li>
+              <li><a href="movies.html">Movies</a></li>
+              <li><a href="specials.html">Specials</a></li>
+              <li><a href="jff.html">JFF</a></li>
+              <li><a href="about.html">About Me</a></li>
+          </ul>
+      </nav>
+    </header>
+    <main>
+        <h1>Ninjago Specials</h1>
+        <section class="specials-list">
+            <!-- Dynamic specials listings will be added here using JavaScript -->
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="scriptspecials.js"></script>
+</body>
+</html>
+/videoplayer/movie/movie.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="/IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/index.html">Ninjago Media</a>
+        </div>
+        <nav>
+            <ul>    
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/series.html">Series</a></li>
+                <li><a href="/movies.html">Movies</a></li>
+                <li><a href="/specials.html">Specials</a></li>
+                <li><a href="/jff.html">JFF</a></li>
+                <li><a href="/about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Ninjago Player</h1>
+        <section class="player-section">
+            <div class="player-container">
+                <iframe src="https://drive.google.com/file/d/1spA5F9YUkOcN_l-QZPJgSMVREJrpinfB/preview" width="853,3333333333333" height="480" allowfullscreen allow="autoplay"></iframe>
+            </div>
+            <div class="navigation">
+                <div class="previous">
+                    <img src="previous.jpg" alt="">
+                    <h3>Previous Movie</h3>
+                </div>
+                <div class="next">
+                    <img src="next.jpg" alt="">
+                    <h3>Next Movie</h3>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="/IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="/IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="/IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+/videoplayer/TEST/player1.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="/IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/index.html">Ninjago Media</a>
+        </div>
+        <nav>
+            <ul>    
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/series.html">Series</a></li>
+                <li><a href="/movies.html">Movies</a></li>
+                <li><a href="/specials.html">Specials</a></li>
+                <li><a href="/jff.html">JFF</a></li>
+                <li><a href="/about.html">About Me</a></li>
+            </ul>
+            </nav>
+    </header>
+    <main>
+        <h1>Ninjago Player</h1>
+        <section class="player-section">
+            <div class="player-container">
+                <video id="videoPlayer" controls>
+                    <source src="video.mp4" type="video/mp4">
+                    Your browser does not support the video tag. Please Use Google Chrome, Edge or Firefox!
+                </video>
+            </div>
+            <div class="navigation">
+                <div class="previous">
+                    <img src="previous.jpg" alt="Previous Thumbnail">
+                    <h3>Previous Episode/Movie</h3>
+                </div>
+                <div class="next">
+                    <img src="next.jpg" alt="Next Thumbnail">
+                    <h3>Next Episode/Movie</h3>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div>Please note that this project is open source</div>
+            <div>made with ❤️ by: Lub</div>
+            <div class="footer-icons">
+                <a href="https://tiktok.com" target="_blank"><img src="/IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                <a href="https://X.com" target="_blank"><img src="/IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                <a href="https://youtube.com" target="_blank"><img src="/IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+/videoplayer/TEST/player1_url.html:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjago Media</title>
+    <link rel="icon" type="image/x-icon" href="/IMG/images/icon.webp">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;700&display=swap">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="/index.html">Ninjago Media</a>
+        </div>
+        <nav>
+            <ul>    
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/series.html">Series</a></li>
+                <li><a href="/movies.html">Movies</a></li>
+                <li><a href="/specials.html">Specials</a></li>
+                <li><a href="/jff.html">JFF</a></li>
+                <li><a href="/about.html">About Me</a></li>
+            </ul>
+            </nav>
+    </header>
+    <main>
+        <h1>Ninjago Player</h1>
+        <section class="player-section">
+            <div class="player-container">
+
+                <iframe src="https://drive.google.com/file/d/10cJ0jwD02XEeoapUYD5bEIZshZcMcyp1/preview" width="1047,2" height="589,05" allowfullscreen allow="autoplay"></iframe>
+            </div>
+            <div class="navigation">
+                <div class="previous">
+                    <img src="previous.jpg" alt="Previous Thumbnail">
+                    <h3>Previous Episode/Movie</h3>
+                </div>
+                <div class="next">
+                    <img src="next.jpg" alt="Next Thumbnail">
+                    <h3>Next Episode/Movie</h3>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <footer>
+            <div class="footer">
+                <div>Please note that this project is open source</div>
+                <div>made with ❤️ by: Lub</div>
+                <div class="footer-icons">
+                    <a href="https://tiktok.com" target="_blank"><img src="/IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
+                    <a href="https://X.com" target="_blank"><img src="/IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
+                    <a href="https://youtube.com" target="_blank"><img src="/IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
+                </div>
+            </div>
+        </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+Styles.css:
+/* General Styles */
+body {
+    font-family: 'Dosis', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+/* General Styles */
+
+
+.header {
+    background-color: #232222;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header .pages-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.header .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0f0f0;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #fff; /* Text color for headings */
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+    background-color: #130202; /* Background color similar to index.html */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #fff; /* Text color for navigation titles */
+    font-size: 1em;
+}
+
+
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.main-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.hero {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.hero-item {
+    text-align: center;
+}
+
+.hero-item a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.show-name {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+
+404.css:
+/* General Styles */
+body {
+    font-family: 'Dosis', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000;
+}
+
+.main-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.error-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    text-align: center;
+}
+
+.error-content {
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 5em;
+    color: #ff0000;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #cc0000;
+}
+
+footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-icons a {
+    color: #ffffff;
+    margin-right: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+footer.css:
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+stylesmovie.css:
+/* General Styles */
+/* Add any styles from index.html as needed */
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.movie-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.movie {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.movie img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.movie h2 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.movie p {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.movie:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    overflow-y: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #666;
+    font-size: 1.2em;
+}
+
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222; /* Background color for the whole page */
+    color: #fff; /* Text color for the whole page */
+}
+
+.header {
+    background-color: #232222;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header .pages-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.header .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0f0f0;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #fff; /* Text color for headings */
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+    background-color: #130202; /* Background color similar to index.html */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #fff; /* Text color for navigation titles */
+    font-size: 1em;
+}
+
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+
+/* Add any existing CSS styles here */
+
+.movie-btn {
+    border: none;
+    background: none;
+    cursor: pointer;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.trailer-btn {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.trailer-btn:hover {
+    background-color: #cc0000;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+};
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+Stylesserie.css:
+/* General Styles */
+/* Add any styles from index.html as needed */
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.series-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.series {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.series img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.series h2 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.series p {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.series:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    overflow-y: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #666;
+    font-size: 1.2em;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222; /* Background color for the whole page */
+    color: #fff; /* Text color for the whole page */
+}
+
+.header {
+    background-color: #232222;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header .pages-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.header .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0f0f0;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #fff; /* Text color for headings */
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+    background-color: #130202; /* Background color similar to index.html */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #fff; /* Text color for navigation titles */
+    font-size: 1em;
+}
+
+
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+Stylesspecial.css:
+/* General Styles */
+/* Add any styles from index.html as needed */
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.specials-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.special {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.special img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.special h2 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.special p {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.special:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    overflow-y: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #666;
+    font-size: 1.2em;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222; /* Background color for the whole page */
+    color: #fff; /* Text color for the whole page */
+}
+
+.header {
+    background-color: #232222;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header .pages-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.header .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0f0f0;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #fff; /* Text color for headings */
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+    background-color: #130202; /* Background color similar to index.html */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #fff; /* Text color for navigation titles */
+    font-size: 1em;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+/videoplayer/movie/styles.css:
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #232222;
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #333;
+    font-size: 1em;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
+
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+
+
+
+/videoplayer/TEST/styles.css:
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #232222;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+/* Main Section Styles */
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #232222;
+    margin-bottom: 20px;
+}
+
+.player-section {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 20px;
+}
+
+.player-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio for responsive video */
+    overflow: hidden;
+}
+
+#videoPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.navigation .previous,
+.navigation .next {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.navigation .previous:hover,
+.navigation .next:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navigation img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation h3 {
+    color: #333;
+    font-size: 1em;
+}
+
+header {
+    background-color: #333; /* Dark gray header */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff0000; /* Red on hover */
+}
+
+/* Dropdown Menu Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Search Bar Styles */
+.search {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+/* Footer Styles */
+.footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif; /* Adding Dosis font */
+    font-weight: 700; /* Using bold weight */
+    font-size: 20px; /* Increasing font size */
+}
+
+.footer-text {
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.footer-icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+    color: #ff0000;
+}
+
+script.js:
+// JavaScript for dropdown menu
+document.addEventListener('DOMContentLoaded', function() {
+    let dropdowns = document.getElementsByClassName('dropdown');
+
+    for (let i = 0; i < dropdowns.length; i++) {
+        dropdowns[i].addEventListener('mouseover', function() {
+            this.getElementsByClassName('dropdown-content')[0].style.display = 'block';
+        });
+        dropdowns[i].addEventListener('mouseout', function() {
+            this.getElementsByClassName('dropdown-content')[0].style.display = 'none';
+        });
+    }
+});
+
+// Add JavaScript for any interactive effects or animations here
+
+scriptjff.js:
+// voeg de data van alle URL toe, alleen films, specials of afleveringen.
+const pageURLs = [
+    ".html",
+    ".html",
+    ".html",
+    ".html",
+    ".html",
+    ".html",
+    ".html",
+    // Add more URLs as needed
+];
+
+// Function to redirect to a random page
+function goToRandomPage() {
+    const randomIndex = Math.floor(Math.random() * pageURLs.length);
+    const randomURL = pageURLs[randomIndex];
+    window.location.href = randomURL;
+}
+
+// Event listener for random page button
+document.addEventListener('DOMContentLoaded', () => {
+    const randomPageBtn = document.getElementById('randomPageBtn');
+    randomPageBtn.addEventListener('click', goToRandomPage);
+});
+scriptmovies.js:
+// Sample movie data (replace with actual movie data)
+const moviesData = [
+    {
+        title: "The Lego Ninjago Movie",
+        description: "Shunned by everyone for being the son of an evil warlord, a teenager seeks to defeat him with the help of his fellow ninjas.",
+        image: "https://m.media-amazon.com/images/M/MV5BNDI3MDljMTQtYzBiYS00NDk2LTlhYzUtYmM0NWIyMmZkMDZkXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_.jpg",
+        trailer: "./IMG/movie/trailer2.mp4"
+    },
+    // Add more movie objects as needed
+];
+
+// Function to dynamically populate the movie list
+function populateMovies() {
+    const movieList = document.querySelector('.movie-list');
+    movieList.innerHTML = '';
+
+    moviesData.forEach(movie => {
+        const movieItem = document.createElement('div');
+        movieItem.classList.add('movie');
+
+        movieItem.innerHTML = `
+        
+                <img src="${movie.image}" alt="${movie.title}">
+                <h2>${movie.title}</h2>
+                <p>${movie.description}</p>
+            </button>
+            <button class="trailer-btn" onclick="openTrailer('${movie.trailer}')">Watch Trailer</button>
+            <button class="trailer-btn" onclick="window.location.href='./videoplayer/movie/movie.html'">Go To Movie</button>
+        `;
+
+        movieList.appendChild(movieItem);
+    });
+}
+
+// Function to open trailer in new tab
+function openTrailer(trailerUrl) {
+    window.open(trailerUrl, '_blank');
+}
+
+// Populate movies on page load
+document.addEventListener('DOMContentLoaded', () => {
+    populateMovies();
+});
+
+scriptseries.js:
+// Sample series data (replace with actual series data)
+const seriesData = [
+    {
+        title: "Season 1",
+        description: "Ninjago: Rise Of The Snakes",
+        image: "./IMG/images/content/Season_1_Cover.webp",
+        url: "season1.html"
+    },
+    {
+        title: "Season 2",
+        description: "Ninjago: Legacy Of The Green Ninja",
+        image: "./IMG/images/content/Season_2_Cover.webp",
+        url: "season2.html"
+    },
+    {
+        title: "Season 3",
+        description: "Ninjago: Rebooted",
+        image: "./IMG/images/content/Season_3_Cover.webp",
+        url: "season3.html"
+    },
+    {
+        title: "Season 4",
+        description: "Ninjago: Tournament of Elements",
+        image: "./IMG/images/content/Season_4_Cover.webp",
+        url: "season4.html"
+    },
+    {
+        title: "Season 5",
+        description: "Ninjago: Possession",
+        image: "./IMG/images/content/Season_5_Cover.webp",
+        url: "season5.html"
+    },
+    {
+        title: "Season 6",
+        description: "Ninjago: Skybound",
+        image: "./IMG/images/content/Season_6_Cover.webp",
+        url: "season6.html"
+    },
+    {
+        title: "Season 7",
+        description: "Ninjago: Hands of Time",
+        image: "./IMG/images/content/Season_7_Cover.webp",
+        url: "season7.html"
+    },
+    {
+        title: "Season 8",
+        description: "Ninjago: Sons of Garmadon",
+        image: "./IMG/images/content/Season_8_Cover.webp",
+        url: "season8.html"
+    },
+    {
+        title: "Season 9",
+        description: "Ninjago: Hunted",
+        image: "./IMG/images/content/Season_9_Cover.webp",
+        url: "season9.html"
+    },
+    {
+        title: "Season 10",
+        description: "Ninjago: March of the Oni",
+        image: "./IMG/images/content/Season_10_Cover.webp",
+        url: "season10.html"
+    },
+    {
+        title: "Season 11",
+        description: "Ninjago: Secrets of the Forbidden Spinjitzu",
+        image: "./IMG/images/content/Season_11_Cover.webp",
+        url: "season11.html"
+    },
+    {
+        title: "Season 12",
+        description: "Ninjago: Prime Empire",
+        image: "./IMG/images/content/Season_12_Cover.webp",
+        url: "season12.html"
+    },
+    {
+        title: "Season 13",
+        description: "Ninjago: Master of the Mountain",
+        image: "./IMG/images/content/Season_13_Cover.webp",
+        url: "season13.html"
+    },
+    {
+        title: "Season 14",
+        description: "Ninjago: Seabound",
+        image: "./IMG/images/content/Season_14_Cover.webp",
+        url: "season14.html"
+    },
+    {
+        title: "Season 15",
+        description: "Ninjago: Crystalized",
+        image: "./IMG/images/content/Season_15_Cover.webp",
+        url: "season15.html"
+    },
+    {
+        title: "Dragons Rising Season 1",
+        description: "Ninjago: Dragons Rising",
+        image: "./IMG/images/content/Season_1_DR_Cover.webp",
+        url: "season1DR.html"
+    },
+    {
+        title: "Dragons Rising Season 2",
+        description: "Ninjago: Dragons Rising",
+        image: "./IMG/images/content/Season_2_DR_Cover.webp",
+        url: "season2DR.html"
+    },
+    // Add more series objects as needed
+];
+
+// Function to dynamically populate the series list
+function populateSeries() {
+    const seriesList = document.querySelector('.series-list');
+    seriesList.innerHTML = '';
+
+    seriesData.forEach(series => {
+        const seriesItem = document.createElement('a'); // Change div to a
+        seriesItem.classList.add('series');
+
+        seriesItem.innerHTML = `
+            <img src="${series.image}" alt="${series.title}">
+            <h2>${series.title}</h2>
+            <p>${series.description}</p>
+        `;
+
+        seriesItem.href = series.url; // Set href to the series URL
+        seriesItem.style.textDecoration = "none"; // Remove underline
+
+        seriesList.appendChild(seriesItem);
+    });
+}
+
+// Populate series on page load
+document.addEventListener('DOMContentLoaded', () => {
+    populateSeries();
+});
+
+scriptspecials.js:
+// Sample specials data (replace with actual specials data)
+const specialsData = [
+    {
+        title: "Special 1",
+        description: "Description of Special 1...",
+        image: "special1.jpg",
+        videoUrl: "https://www.youtube.com/embed/VIDEO_ID_HERE"
+    },
+    {
+        title: "Special 2",
+        description: "Description of Special 2...",
+        image: "special2.jpg",
+        videoUrl: "https://www.youtube.com/embed/VIDEO_ID_HERE"
+    },
+    // Add more specials as needed
+];
+
+// Function to dynamically populate the specials list
+function populateSpecials() {
+    const specialsList = document.querySelector('.specials-list');
+    specialsList.innerHTML = '';
+
+    specialsData.forEach(special => {
+        const specialItem = document.createElement('div');
+        specialItem.classList.add('special');
+
+        specialItem.innerHTML = `
+            <img src="${special.image}" alt="${special.title}">
+            <h2>${special.title}</h2>
+            <p>${special.description}</p>
+        `;
+
+        specialItem.addEventListener('click', () => openModal(special.title, special.videoUrl));
+
+        specialsList.appendChild(specialItem);
+    });
+}
+
+// Function to open modal with video
+function openModal(title, videoUrl) {
+    const overlay = document.querySelector('.overlay');
+    overlay.style.display = 'flex';
+
+    const modal = document.createElement('div');
+    modal.classList.add('modal');
+
+    modal.innerHTML = `
+        <span class="close-btn">&times;</span>
+        <h2>${title}</h2>
+        <iframe width="100%" height="315" src="${videoUrl}" frameborder="0" allowfullscreen></iframe>
+    `;
+
+    modal.querySelector('.close-btn').addEventListener('click', () => closeModal(modal, overlay));
+
+    overlay.appendChild(modal);
+}
+
+// Function to close modal
+function closeModal(modal, overlay) {
+    overlay.style.display = 'none';
+    modal.remove();
+}
+
+// Populate specials on page load
+document.addEventListener('DOMContentLoaded', () => {
+    populateSpecials();
+});
+/videoplayer/movie/script.js:
+// Sample previous and next URLs (replace with actual URLs)
+const previousURL = "";
+const nextURL = "";
+
+// Function to navigate to previous page
+function goToPrevious() {
+    window.location.href = previousURL;
+}
+
+// Function to navigate to next page
+function goToNext() {
+    window.location.href = nextURL;
+}
+
+// Event listeners for navigation buttons
+document.addEventListener('DOMContentLoaded', () => {
+    const previousBtn = document.querySelector('.previous');
+    const nextBtn = document.querySelector('.next');
+
+    previousBtn.addEventListener('click', goToPrevious);
+    nextBtn.addEventListener('click', goToNext);
+});
+/videoplayer/TEST/script.js:
+// Sample previous and next URLs (replace with actual URLs)
+const previousURL = "/videoplayer/series/season1/ep1.html";
+const nextURL = "/videoplayer/series/season1/ep2/ep2.html";
+
+// Function to navigate to previous page
+function goToPrevious() {
+    window.location.href = previousURL;
+}
+
+// Function to navigate to next page
+function goToNext() {
+    window.location.href = nextURL;
+}
+
+// Event listeners for navigation buttons
+document.addEventListener('DOMContentLoaded', () => {
+    const previousBtn = document.querySelector('.previous');
+    const nextBtn = document.querySelector('.next');
+
+    previousBtn.addEventListener('click', goToPrevious);
+    nextBtn.addEventListener('click', goToNext);
+});
