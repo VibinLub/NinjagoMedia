@@ -3,7 +3,7 @@ const seriesData = [
     {
         title: "The Island Special",
         description: "The ninja's go on a mission to save Clutch!",
-        image: "./IMG/images/content/the_island_cover.webp",
+        image: "./IMG/images/content/The_Island_Cover.webp",
         trailer: "./img/trailers/special-.mp4",
         seasonUrl: "./videoplayer/specials/SPECIALNAME.html"
     },
