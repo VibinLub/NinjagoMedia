@@ -1,7 +1,7 @@
 # Todo List
 
 ## Fixes
-- [❌] 404 Fixen
+- [✅] 404 Fixen
 - [✅] Dosis toevoegen
 - [✅] CSS Dosis fixen
 
@@ -29,4 +29,4 @@
 - [❌] "To Episodes" button toevoegen
 
 ## Miscellaneous
-- [❌] Hosting vinden (github werkt niet echt mee)
+- [✅] Hosting vinden (github werkt niet echt mee)
