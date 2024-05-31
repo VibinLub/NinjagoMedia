@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemap>
-    <url>/index.html</url>
-    <url>/series.html</url>
-    <url>/movies.html</url>
-    <url>/jff.html</url>
-    <url>/aboutme.html</url>
-</sitemap>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vibinlub.github.io/NinjagoMedia/index.html</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://vibinlub.github.io/NinjagoMedia/series.html</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://vibinlub.github.io/NinjagoMedia/movies.html</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://vibinlub.github.io/NinjagoMedia/jff.html</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://vibinlub.github.io/NinjagoMedia/aboutme.html</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+</urlset>
