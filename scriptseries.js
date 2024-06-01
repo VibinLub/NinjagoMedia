@@ -5,7 +5,7 @@ const seriesData = [
         description: "Ninjago: Rise Of The Snakes",
         image: "./IMG/images/content/Season_1_Cover.webp",
         trailer: "./img/trailers/trailer1.mp4",
-        seasonUrl: "./seasons/season1.html"
+        seasonUrl: "./Series/season1/index.html"
     },
     {
         title: "Season 2",
