@@ -80,4 +80,32 @@ const episodesData = [
     }
 ];
 
-// Function to dynamically
+// Function to dynamically populate the episode list
+function populateEpisodes() {
+    const episodesList = document.querySelector('.episode-list');
+    episodesList.innerHTML = '';
+
+    episodesData.forEach(episode => {
+        const episodeItem = document.createElement('div');
+        episodeItem.classList.add('episode');
+
+        episodeItem.innerHTML = `
+            <img src="${episode.image}" alt="${episode.title}">
+            <h2>${episode.title}</h2>
+            <p>${episode.description}</p>
+        `;
+
+        const watchBtn = document.createElement('button');
+        watchBtn.classList.add('watch-btn');
+        watchBtn.innerText = 'Watch Episode';
+        watchBtn.addEventListener('click', () => window.location.href = episode.episodeUrl);
+        episodeItem.appendChild(watchBtn);
+
+        episodesList.appendChild(episodeItem);
+    });
+}
+
+// Populate episodes on page load
+document.addEventListener('DOMContentLoaded', () => {
+    populateEpisodes();
+});
