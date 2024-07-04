@@ -1,6 +1,6 @@
 // Sample previous and next URLs (replace with actual URLs)
-const previousURL = "/videoplayer/series/Ninjago/season1/ep2/player1_url.html";
-const nextURL = "/videoplayer/series/Ninjago/season1/ep4/player1_url.html";
+const previousURL = "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep2/player1_url.html";
+const nextURL = "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep4/player1_url.html";
 
 // Function to navigate to previous page
 function goToPrevious() {
