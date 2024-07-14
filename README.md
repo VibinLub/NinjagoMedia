@@ -5,6 +5,7 @@
 ![Ninjago Media Banner](./IMG/images/banner.png)
 
 ## 📖 Table of Contents
+- [Read Before Use](#read-before-use)
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Screenshots](#screenshots)
