@@ -16,12 +16,12 @@
 - [License](#license)
 - [Contact](#contact)
 
-## 📖 Read Before Use
+# 📖 Read Before Use
 
-## 📚 About the Project
+# 📚 About the Project
 Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Created with love and passion for the Ninjago universe, this platform aims to provide a comprehensive and interactive experience for fans. From detailed episode guides to exclusive movie content, Ninjago Media brings the world of Ninjago to your fingertips.
 
-## 🌟 Features
+# 🌟 Features
 - **🖥️ User-Friendly Interface**: Navigate through the site with ease.
 - **📺 Series Hub**: Browse and explore all seasons and episodes.
 - **🎬 Movie Section**: Discover and watch Ninjago movies.
@@ -29,7 +29,7 @@ Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Cre
 - **📱 Responsive Design**: Enjoy a seamless experience on any device.
 - **❤️ Open Source**: Contribute and be a part of our community.
 
-## 📸 Screenshots
+# 📸 Screenshots
 ### Home Page
 ![Home Page](./screenshots/homepage.png)
 ### Series Page
@@ -37,15 +37,15 @@ Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Cre
 ### Episode Detail
 ![Episode Detail](./screenshots/episodedetail.png)
 
-## 💻 Technologies Used
+# 💻 Technologies Used
 - **HTML5**: Structure and content.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactive elements and functionality.
 - **Google Fonts**: Dosis font for a modern and clean look.
 
-## 🚀 Installation
+# 🚀 Installation
 To set up Ninjago Media locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ninjago-media.git
+   git clone https://github.com/vibinlub/ninjago-media.git
