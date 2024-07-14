@@ -5,7 +5,7 @@
 ![Ninjago Media Banner](./IMG/images/banner.png)
 
 ## 📖 Table of Contents
-- [Read Before Use](#-📖-Read-Before-Use)
+- [Read Before Use](#Read-Before-Use)
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -16,7 +16,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-# 📖 Read Before Use
+# Read Before Use
 
 # 📚 About the Project
 Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Created with love and passion for the Ninjago universe, this platform aims to provide a comprehensive and interactive experience for fans. From detailed episode guides to exclusive movie content, Ninjago Media brings the world of Ninjago to your fingertips.
