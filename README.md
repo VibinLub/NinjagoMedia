@@ -62,16 +62,16 @@ To set up Ninjago Media locally, follow these steps:
    ```
 
 ## Usage
-Once you have set up Ninjago Media locally, you can start exploring the content by opening the `index.html` file in your web browser. Navigate through different sections such as the Series Hub, Movie Section, and Specials to enjoy the full Ninjago experience.
+Once you have set up Ninjago Media locally, you can start exploring the content by opening the `index.html` file in your web browser. Navigate through different sections such as the Series Hub, Movie Section, and Specials to enjoy the full Ninjago experience. (if you have issues please message me using discord or mail!)
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Message me on discord / mail me
+2. Add/Make the things you think are needed
+3. Message/Mail me again!
+4. I will check it
+5. Its published 🎉
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
