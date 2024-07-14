@@ -5,16 +5,16 @@
 ![Ninjago Media Banner](./IMG/images/banner.png)
 
 ## 📖 Table of Contents
-- [Read Before Use](##Read-Before-Use)
-- [About the Project](##about-the-project)
-- [Features](##features)
-- [Screenshots](##screenshots)
-- [Technologies Used](##technologies-used)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Contributing](##contributing)
-- [License](##license)
-- [Contact](##contact)
+- [Read Before Use](#Read-Before-Use)
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## 📖 Read Before Use
 
