@@ -28,7 +28,6 @@ Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Cre
 - **📺 Series Hub**: Browse and explore all seasons and episodes.
 - **🎬 Movie Section**: Discover and watch Ninjago movies.
 - **🌟 Specials**: Access exclusive Ninjago specials.
-- **📱 Responsive Design**: Enjoy a seamless experience on any device.
 - **❤️ Open Source**: Contribute and be a part of our community.
 
 ## Screenshots
