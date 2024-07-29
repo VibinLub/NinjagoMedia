@@ -27,6 +27,3 @@
 - [❌] Minishorts
 - [❌] Afleveringen page per season
 - [❌] "To Episodes" button toevoegen
-
-## Miscellaneous
-- [✅] Hosting vinden (github werkt niet echt mee)
