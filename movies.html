@@ -1,3 +1,4 @@
+<!-- index.html or any other HTML file -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,17 +32,14 @@
             <!-- Dynamic movie listings will be added here using JavaScript -->
         </section>
     </main>
-    <footer>
-        <div class="footer">
-            <div>Please note that this project is open source</div>
-            <div>made with ❤️ by: Lub</div>
-            <div class="footer-icons">
-                <a href="https://tiktok.com" target="_blank"><img src="./IMG/images/tiktok.svg" alt="TikTok" width="30" height="30"></a>
-                <a href="https://X.com" target="_blank"><img src="./IMG/images/square-x-twitter.svg" alt="X" width="30" height="30"></a>
-                <a href="https://youtube.com" target="_blank"><img src="./IMG/images/square-youtube.svg" alt="YouTube" width="30" height="30"></a>
-            </div>
-        </div>
-    </footer>
+    <footer id="footer"></footer>
     <script src="scriptmovies.js"></script>
+    <script>
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer').innerHTML = data;
+            });
+    </script>
 </body>
 </html>
