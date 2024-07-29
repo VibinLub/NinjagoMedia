@@ -40,7 +40,7 @@ Ninjago Media is a fan-made website dedicated to the beloved Ninjago series. Cre
 ### Movies Page
 ![Movies Page](./IMG/screenshots/moviespage.png)
 ### Specials Page
-![Specials Page](./IMG)
+#Soon
 
 ## Technologies Used
 - **HTML5**: Structure and content.
