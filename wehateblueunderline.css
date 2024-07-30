@@ -1,0 +1,52 @@
+/* Base link style: no text color change */
+a {
+    color: inherit; /* Keeps the link color same as the surrounding text */
+    text-decoration: none; /* Removes default underline */
+    position: relative; /* Allows positioning of pseudo-element */
+}
+
+/* Rounded underline using pseudo-element */
+a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -4px; /* Adjust this value to position the underline */
+    height: 3px; /* Thickness of the underline */
+    background-color: #555; /* Underline color */
+    border-radius: 2px; /* Makes the underline rounded */
+    transform: scaleX(0); /* Initially hides the underline */
+    transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+}
+
+/* Optional: Hover effect to enhance user experience */
+a:hover::after {
+    background-color: #777; /* Slightly lighter color on hover */
+    transform: scaleX(1); /* Shows the underline on hover */
+}
+
+/* Specific style for profile text links */
+.profile-text a {
+    color: #555555; /* Link color in profile text section */
+    position: relative; /* Ensures positioning of pseudo-element */
+}
+
+/* Ensure underline effect only applies to profile text links */
+.profile-text a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -4px; /* Adjust this value to position the underline */
+    height: 3px; /* Thickness of the underline */
+    background-color: #555; /* Underline color */
+    border-radius: 2px; /* Makes the underline rounded */
+    transform: scaleX(0); /* Initially hides the underline */
+    transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+}
+
+/* Optional: Hover effect to enhance user experience */
+.profile-text a:hover::after {
+    background-color: #777; /* Slightly lighter color on hover */
+    transform: scaleX(1); /* Shows the underline on hover */
+}
