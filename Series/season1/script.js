@@ -1,80 +1,79 @@
-// Sample episode data (replace with actual episode data)
 const episodesData = [
     {
-        title: "The Beginning of Ninjago",
-        description: "The ninja, Kai, Jay, Cole, Zane, and Nya, begin their journey to protect Ninjago from evil.",
+        title: "Rise of the Snakes",
+        description: "The ninja are training to confront the prophecy of the Green Ninja when they discover Lloyd Garmadon has unleashed the ancient race of snakes.",
         image: "/NinjagoMedia/IMG/images/serie/season1/1.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep1/player1_url.html"
     },
     {
-        title: "The Golden Weapons",
-        description: "The ninja embark on a quest to find the four Golden Weapons to prevent Lord Garmadon from destroying the world.",
+        title: "Home",
+        description: "The ninja must protect Lloyd when he is expelled from Darkley's Boarding School and learns the tough lesson of what it means to be a hero.",
         image: "/NinjagoMedia/IMG/images/serie/season1/2.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep2/player1_url.html"
     },
     {
-        title: "King of Shadows",
-        description: "The ninja confront the dark samurai, Samukai, to obtain the third Golden Weapon.",
+        title: "Snakebit",
+        description: "Jay's parents are turned into snakes after Jay falls into a trap while trying to retrieve the Sword of Fire.",
         image: "/NinjagoMedia/IMG/images/serie/season1/3.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep3/player1_url.html"
     },
     {
-        title: "Weapon of Honor",
-        description: "The ninja embark on a perilous mission to obtain the fourth Golden Weapon, the Nunchucks of Lightning.",
+        title: "Never Trust a Snake",
+        description: "Lloyd unearths a second snake tribe, the Fangpyres, to help him reclaim the lost map of the Golden Weapons.",
         image: "/NinjagoMedia/IMG/images/serie/season1/4.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep4/player1_url.html"
     },
     {
-        title: "Ancient Sword",
-        description: "The ninja travel to the Hidden Monastery to uncover the location of the Ancient Sword.",
+        title: "Can of Worms",
+        description: "The Serpentine are united under the leadership of Pythor, who plans to use the four Fang Blades to awaken the Great Devourer.",
         image: "/NinjagoMedia/IMG/images/serie/season1/5.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep5/player1_url.html"
     },
     {
-        title: "The New Masters",
-        description: "The ninja train to become masters of Spinjitzu under the guidance of Sensei Wu.",
+        title: "The Snake King",
+        description: "Pythor steals the remaining scrolls to find the four Fang Blades that will awaken the Great Devourer.",
         image: "/NinjagoMedia/IMG/images/serie/season1/6.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep6/player1_url.html"
     },
     {
-        title: "Stone Soldiers",
-        description: "The ninja are confronted with the malevolent forces of the Stone Soldiers coming to life.",
+        title: "Tick Tock",
+        description: "Zane uncovers his true potential when the ninja search for the third Fang Blade in the Glacier Barrens.",
         image: "/NinjagoMedia/IMG/images/serie/season1/7.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep7/player1_url.html"
     },
     {
-        title: "The Eyes of Skulkin",
-        description: "The ninja must protect the Eye of Ages from Lord Garmadon and his army of skeletons.",
+        title: "Once Bitten, Twice Shy",
+        description: "Jay and Nya must retrieve the fourth Fang Blade, as Jay discovers the price of being bitten by the Great Devourer's venom.",
         image: "/NinjagoMedia/IMG/images/serie/season1/8.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep8/player1_url.html"
     },
     {
-        title: "The Great Champion",
-        description: "Jay participates in a tournament to defend the honor of the ninja and win the Traveler's Tea.",
+        title: "The Royal Blacksmiths",
+        description: "The ninja participate in the talent show at Cole's father's dance club to retrieve the third Fang Blade.",
         image: "/NinjagoMedia/IMG/images/serie/season1/9.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep9/player1_url.html"
     },
     {
         title: "The Green Ninja",
-        description: "The identity of the Green Ninja is finally revealed, altering the balance in the fight against Lord Garmadon.",
+        description: "The ninja discover the identity of the Green Ninja, who is destined to defeat Lord Garmadon.",
         image: "/NinjagoMedia/IMG/images/serie/season1/10.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep10/player1_url.html"
     },
     {
-        title: "All of Fighting Techniques",
-        description: "The ninja must overcome a series of challenges to prove they are worthy of becoming Spinjitzu masters.",
+        title: "All of Nothing",
+        description: "The ninja face Pythor and the Serpentine in a final battle to prevent the awakening of the Great Devourer.",
         image: "/NinjagoMedia/IMG/images/serie/season1/11.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep11/player1_url.html"
     },
     {
-        title: "The Darkest Day",
-        description: "The ninja face their greatest challenge yet as Lord Garmadon unveils the Golden Weapon.",
+        title: "The Rise of the Great Devourer",
+        description: "The ninja fight to stop the Great Devourer from consuming Ninjago as the ultimate battle begins.",
         image: "/NinjagoMedia/IMG/images/serie/season1/12.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep12/player1_url.html"
     },
     {
-        title: "The Final Battle",
-        description: "The ninja confront Lord Garmadon in a final attempt to save Ninjago.",
+        title: "Day of the Great Devourer",
+        description: "The ninja must defeat the Great Devourer to save Ninjago and fulfill the prophecy of the Green Ninja.",
         image: "/NinjagoMedia/IMG/images/serie/season1/13.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season1/ep13/player1_url.html"
     }
