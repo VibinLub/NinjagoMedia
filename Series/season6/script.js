@@ -1,4 +1,4 @@
-const episodesDataSeason6 = [
+const episodesData = [
     {
         title: "Infamous",
         description: "The ninja become celebrities but soon face a new threat from the sky pirate Nadakhan.",

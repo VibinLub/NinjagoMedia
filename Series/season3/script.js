@@ -1,4 +1,4 @@
-const episodesDataSeason3 = [
+const episodesData = [
     {
         title: "The Surge",
         description: "The ninja are called back into action when the Overlord returns as a digital entity.",

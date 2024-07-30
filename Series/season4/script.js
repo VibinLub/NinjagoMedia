@@ -1,4 +1,4 @@
-const episodesDataSeason4 = [
+const episodesData = [
     {
         title: "The Invitation",
         description: "The ninja receive an invitation to Master Chen's Tournament of Elements.",

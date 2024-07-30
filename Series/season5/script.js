@@ -1,4 +1,4 @@
-const episodesDataSeason5 = [
+const episodesData = [
     {
         title: "Winds of Change",
         description: "The ninja are scattered after Zane's sacrifice and must reunite to face a new threat.",
