@@ -1,11 +1,12 @@
 # Todo List
 
-## Fixes
+## Done
 - [✅] 404 Fixen
 - [✅] Dosis toevoegen
 - [✅] CSS Dosis fixen
+- [✅] Pilots
 
-## Development
+## Not Done
 - [❌] S1
 - [❌] S2
 - [❌] S3
