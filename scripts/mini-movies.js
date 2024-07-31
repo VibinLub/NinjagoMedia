@@ -1,10 +1,10 @@
 // Sample mini-movies data (replace with actual data)
 const miniMoviesData = [
     {
-        title: "Mini Movies Title",
-        description: "Description of the mini-movies.",
-        image: "./IMG/images/content/Mini_Movie_-_Cover.webp",
-        seasonUrl: "./videoplayer/mini-movies/mini-movies.html"
+        title: "Ninjago Mini Movies",
+        description: "The Mini Movies are the beginning of Ninjago, here you see characters like never seen before!",
+        image: "./IMG/images/content/minimovies.webp",
+        seasonUrl: "./videoplayer/specials/mini-movies/mini-movies.html"
     },
     // Add more mini-movies data here...
 ];
