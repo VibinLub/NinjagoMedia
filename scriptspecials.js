@@ -1,6 +1,13 @@
 // Sample series data (replace with actual series data)
 const seriesData = [
     {
+        title: "Pilot Movies",
+        description: "",
+        image: "./IMG/images/content/Special_-_Cover.webp",
+        trailer: "./img/trailers/special-.mp4",
+        seasonUrl: "./videoplayer/specials/SPECIALNAME.html.html"
+    },
+    {
         title: "The Island Special",
         description: "The ninja's go on a mission to save Clutch!",
         image: "./IMG/images/content/The_Island_Cover.webp",
