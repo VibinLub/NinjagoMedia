@@ -1,8 +1,6 @@
 // voeg de data van alle URL toe, alleen films, specials of afleveringen.
 const pageURLs = [
     "index.html",
-    "404.html",
-    "jff.html",
     "movies.html",
     "series.html",
     "specials.html",
