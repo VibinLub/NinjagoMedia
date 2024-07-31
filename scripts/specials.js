@@ -3,8 +3,8 @@ const specialsData = [
     {
         title: "Pilot Movies",
         description: "The original pilot episodes that introduced the LEGO Ninjago series.",
-        image: "./IMG/images/content/Special_-_Cover.webp",
-        seasonUrl: "./videoplayer/specials/pilot-movies.html"
+        image: "./IMG/images/content/pilot.webp",
+        seasonUrl: "./videoplayer/specials/pilots/pilot1.html"
     },
     // Add more specials data here...
 ];
