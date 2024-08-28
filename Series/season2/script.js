@@ -1,79 +1,79 @@
 const episodesData = [
     {
         title: "Darkness Shall Rise",
-        description: "The ninja must protect Lloyd from his father, Lord Garmadon, who has teamed up with the Serpentine.",
+        description: "The ninja discover that Garmadon's mega-weapon is capable of creating new evils, forcing them to protect Ninjago from its dark power.",
         image: "/NinjagoMedia/IMG/images/serie/season2/1.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep1/player1_url.html"
     },
     {
         title: "Pirates vs. Ninja",
-        description: "The ninja face off against Captain Soto and his pirates, who have escaped their prison.",
+        description: "The ninja face off against Captain Soto and his pirates, who have been resurrected by Garmadon's mega-weapon.",
         image: "/NinjagoMedia/IMG/images/serie/season2/2.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep2/player1_url.html"
     },
     {
         title: "Double Trouble",
-        description: "Lloyd struggles with his growing powers, while the ninja prepare for an impending threat.",
+        description: "Lloyd faces his greatest challenge yet when the mega-weapon creates an evil doppelgänger of him, leading to a battle of the Green Ninja vs. himself.",
         image: "/NinjagoMedia/IMG/images/serie/season2/3.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep3/player1_url.html"
     },
     {
         title: "Ninjaball Run",
-        description: "The ninja participate in a race to obtain a critical piece of the final Fangblade.",
+        description: "The ninja enter the Ninjaball Run, a high-stakes race across Ninjago, to recover the mega-weapon before it falls into the wrong hands.",
         image: "/NinjagoMedia/IMG/images/serie/season2/4.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep4/player1_url.html"
     },
     {
         title: "Child's Play",
-        description: "The ninja are turned into children by a magical artifact, complicating their mission.",
+        description: "The ninja are transformed into children by the mega-weapon, and must find a way to return to normal while still protecting Ninjago.",
         image: "/NinjagoMedia/IMG/images/serie/season2/5.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep5/player1_url.html"
     },
     {
         title: "Wrong Place, Wrong Time",
-        description: "The ninja travel back in time to prevent Lord Garmadon from altering the past.",
+        description: "Garmadon uses the mega-weapon to travel back in time and prevent the formation of the ninja team, forcing the present-day ninja to stop him.",
         image: "/NinjagoMedia/IMG/images/serie/season2/6.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep6/player1_url.html"
     },
     {
         title: "The Stone Army",
-        description: "The ninja discover an ancient stone army and prepare for a new battle against an ancient enemy.",
+        description: "The ninja journey to the Dark Island to stop the awakening of the Stone Army, an indestructible force that threatens all of Ninjago.",
         image: "/NinjagoMedia/IMG/images/serie/season2/7.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep7/player1_url.html"
     },
     {
         title: "The Day Ninjago Stood Still",
-        description: "The ninja must prevent the Overlord from bringing about a catastrophic event in Ninjago.",
+        description: "As the Stone Army rises, the ninja must prevent the ultimate weapon, the Garmatron, from being unleashed upon Ninjago.",
         image: "/NinjagoMedia/IMG/images/serie/season2/8.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep8/player1_url.html"
     },
     {
         title: "The Last Voyage",
-        description: "The ninja embark on a final voyage to confront their enemies and protect Ninjago.",
+        description: "The ninja team up with the Ultra Dragon to stop Garmadon from bringing the Dark Island to Ninjago.",
         image: "/NinjagoMedia/IMG/images/serie/season2/9.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep9/player1_url.html"
     },
     {
         title: "Island of Darkness",
-        description: "The ninja journey to the Island of Darkness to face the ultimate battle against the Overlord.",
+        description: "The ninja must confront Garmadon and the Stone Army on the Dark Island to prevent them from completing the Garmatron.",
         image: "/NinjagoMedia/IMG/images/serie/season2/10.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep10/player1_url.html"
     },
     {
-        title: "The Ticking Clock",
-        description: "The ninja race against time to stop the Overlord's plans from coming to fruition.",
+        title: "The Last Hope",
+        description: "The ninja set out to find the Temple of Light, where they hope to unlock the ultimate power to defeat the Stone Army.",
         image: "/NinjagoMedia/IMG/images/serie/season2/11.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep11/player1_url.html"
     },
     {
-        title: "The Overlord Cometh",
-        description: "The Overlord's power grows stronger, and the ninja must unite to stop him once and for all.",
+        title: "Return of the Overlord",
+        description: "The Overlord reveals his true plan to use the Garmatron to plunge Ninjago into darkness. The ninja must stop him at all costs.",
         image: "/NinjagoMedia/IMG/images/serie/season2/12.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep12/player1_url.html"
     },
     {
         title: "Rise of the Spinjitzu Master",
-        description: "Lloyd embraces his destiny in an epic showdown against the Overlord to save Ninjago.",
+        description: "In the season finale, Lloyd faces the Overlord in a final battle to save Ninjago and fulfill his destiny as the Ultimate Spinjitzu Master.",
         image: "/NinjagoMedia/IMG/images/serie/season2/13.webp",
         episodeUrl: "/NinjagoMedia/videoplayer/series/Ninjago/season2/ep13/player1_url.html"
     }
